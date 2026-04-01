@@ -1,4 +1,7 @@
 脚本操作甲骨文云创建新用户《有限权限》适合api开机密钥
+
+使用教程： https://telegra.ph/oralce-api-role-05-05
+
 1.打开甲骨文oci
 
 2.打开cloud shell
