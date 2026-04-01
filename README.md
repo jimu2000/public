@@ -12,6 +12,7 @@
 
 
 wget -N "https://raw.githubusercontent.com/jimu2000/public/main/oracle_role_apiuser_policy.sh" --no-check-certificate && chmod +x oracle_role_apiuser_policy.sh && bash oracle_role_apiuser_policy.sh
+
 4.关于运行语句的内容及安全性,有能力的可以查看GitHub
 
 https://github.com/jin-gubang/public/blob/main/oracle_role_apiuser_policy.sh
