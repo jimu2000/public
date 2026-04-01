@@ -1,12 +1,19 @@
 脚本操作甲骨文云创建新用户《有限权限》适合api开机密钥
 
-===================================
+================================================
+
 甲骨文云创建admin新用户
+
 wget -N "https://raw.githubusercontent.com/jimu2000/public/main/oracle_Create_admin_user.sh" --no-check-certificate && chmod +x oracle_Create_admin_user.sh && bash oracle_Create_admin_user.sh
-===================================
+
+====================================
+
 脚本操作甲骨文云创建新用户《有限权限》适合api开机密钥
+
 wget -N "https://raw.githubusercontent.com/jimu2000/public/main/oracle_role_apiuser_policy.sh" --no-check-certificate && chmod +x oracle_role_apiuser_policy.sh && bash oracle_role_apiuser_policy.sh
-===================================
+
+================================================
+
 使用教程： https://telegra.ph/oralce-api-role-05-05
 
 1.打开甲骨文oci
