@@ -10,7 +10,7 @@ RESET="\e[0m"
 # --- 参数设置 ---
 export user_name="Super_Admin_User"      # 超级用户名称
 export user_des="拥有全权管理权限的API用户"
-export user_email="admin@iooc.eu.org"  # 建议填写你的真实邮箱
+export user_email="admin@domain.com"  # 建议填写你的真实邮箱
 export ignore_error="0"
 
 # 获取租户OCID
